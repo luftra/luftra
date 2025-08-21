@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+<!--![butterflycurve](https://github.com/user-attachments/assets/0e99e8b4-b73c-40db-a7ac-364d61c349e0)
+
 **luftra/luftra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

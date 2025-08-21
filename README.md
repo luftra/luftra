@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![A beautiful butterfly curve](./assets/butterflycurve.png)
+![A beautiful butterfly curve](./assets/butterflycurve.jpg)

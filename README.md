@@ -38,6 +38,7 @@ apps:
 - obs
 - vlc (*alt to media player)
 - windscribe
+- nextDNS
 
 software:
 - disroot

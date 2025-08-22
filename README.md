@@ -39,6 +39,7 @@ apps:
 - vlc (*alt to media player)
 - windscribe
 - nextDNS
+- pdf24 creator
 
 software:
 - disroot

@@ -12,3 +12,38 @@
 ![pan6](./assets/panorama6.jpg)
 
 *Panoramas are cool, bro!* :smile:
+
+
+awesome software & apps (privacy/FOSS focused):
+
+extensions:
+- language tool
+- english-to-english definitions - merriam-webster dictionary
+- privacy badger
+- proton pass
+- sponsorblock
+- uBO
+- untrap for youtube
+- violentmonkey
+
+apps:
+- librewolf (gecko)
+- vivaldi (chromium)
+- libreoffice (*alt to office)
+- shotcut (*alt to clipchamp)
+- qalculate (*alt to calculator)
+- bleachbit
+- notepad++ (*alt to notepad)
+- anki
+- obs
+- vlc (*alt to media player)
+- windscribe
+
+software:
+- disroot
+- ente
+- horizon
+- proton ecosystem
+- simplelogin
+- virustotal
+- filen

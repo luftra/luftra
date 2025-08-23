@@ -18,7 +18,7 @@ awesome software & apps (privacy/FOSS focused):
 
 extensions:
 - language tool
-  - https://chromewebstore.google.com/detail/ai-grammar-checker paraph/oldceeleldhonbafppcapldpdifcinji
+  - https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji
 - english-to-english definitions - merriam-webster dictionary
   - https://chromewebstore.google.com/detail/english-to-english-defini/gmhgdiamihghcepkeapfoeakphffcdkk
 - privacy badger

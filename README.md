@@ -75,7 +75,9 @@ apps:
   - https://www.oo-software.com/en/shutup10
 
 software:
-- disroot/nextcloud (*alt to google drive)
+- disroot ecosystem (*alt to google ecosystem)
+  - email (*alt to gmail)
+  - nextcloud (*alt to google drive)
 - ente (*alt to google photos)
 - horizon - image hosting
 - proton ecosystem (*alt to google ecosystem)

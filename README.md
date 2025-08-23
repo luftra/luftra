@@ -33,9 +33,8 @@ extensions:
   - https://chromewebstore.google.com/detail/untrap-for-youtube/enboaomnljigfhfjfoalcienlhjlfil
 - violentmonkey
   - https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
-    scripts:
-    - https://greasyfork.org/en/scripts/406540-undiscord
-
+  scripts:
+  - https://greasyfork.org/en/scripts/406540-undiscord
 - canvas blocker (gecko)
   - https://addons.mozilla.org/firefox/addon/canvasblocker/
   

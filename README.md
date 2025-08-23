@@ -69,6 +69,8 @@ apps:
   - https://windscribe.com
 - nextDNS - dns
   - https://my.nextdns.io
+- malwarebytes free - scan
+  - https://www.malwarebytes.com
 - O&O ShutUp10++ - windows antispy - portable
   - https://www.oo-software.com/en/shutup10
 

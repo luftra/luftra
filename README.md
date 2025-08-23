@@ -75,10 +75,16 @@ apps:
   - https://www.oo-software.com/en/shutup10
 
 software:
-- disroot
-- ente
-- horizon
-- proton ecosystem
-- simplelogin
-- virustotal
-- filen
+- disroot/nextcloud (*alt to google drive)
+- ente (*alt to google photos)
+- horizon - image hosting
+- proton ecosystem (*alt to google ecosystem)
+  - proton mail (*alt to gmail)
+  - proton vpn - vpn
+  - proton pass (*alt to google passwords)
+  - proton calender (*alt to google calender)
+  - proton drive (*alt to google drive)
+  - proton docs (*alt to google docs)
+  - simplelogin - email alias
+- virustotal - scan
+- filen (*alt to google drive)

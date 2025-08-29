@@ -21,8 +21,6 @@ extensions:
   - https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji
 - english-to-english definitions - merriam-webster dictionary
   - https://chromewebstore.google.com/detail/english-to-english-defini/gmhgdiamihghcepkeapfoeakphffcdkk
-- privacy badger
-  - https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp
 - proton pass
   - https://chromewebstore.google.com/detail/proton-pass-free-password/ghmbeldphafepmbegfdlkpapadhbakde
 - sponsorblock

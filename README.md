@@ -71,6 +71,8 @@ apps:
   - https://www.malwarebytes.com
 - O&O ShutUp10++ - windows antispy - portable
   - https://www.oo-software.com/en/shutup10
+- goofcord - discord client
+  - https://github.com/Milkshiift/GoofCord
 
 software:
 - disroot ecosystem (*alt to google ecosystem)

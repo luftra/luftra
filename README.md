@@ -73,6 +73,8 @@ apps:
   - https://www.oo-software.com/en/shutup10
 - goofcord - discord client
   - https://github.com/Milkshiift/GoofCord
+- steam - game
+  - https://store.steampowered.com/about/
 
 software:
 - disroot ecosystem (*alt to google ecosystem)

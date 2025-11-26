@@ -77,6 +77,8 @@ apps:
   - https://store.steampowered.com/about/
 - ti connect ce - texas instruments
   - https://education.ti.com/en/software/details/en/CA9C74CAD02440A69FDC7189D7E1B6C2/swticonnectcesoftware
+- folderfort sync - cloud storage folder
+  - https://www.folderfort.com/folder-fort-sync-beta/
 - cryptomator - encryption
   - https://cryptomator.org
 

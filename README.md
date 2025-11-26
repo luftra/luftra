@@ -94,3 +94,4 @@ software:
   - simplelogin - email alias
 - virustotal - scan
 - filen (*alt to google drive)
+- folderfort - cloud storage (1tb lifetime)

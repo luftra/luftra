@@ -4,6 +4,8 @@
 
 *A beautiful butterfly curve, plotted using a parametric equation.*
 
+![Rat](./assets/rat.png)
+
 ![pan1](./assets/panorama1.jpg)
 ![pan2](./assets/panorama2.jpg)
 ![pan3](./assets/panorama3.jpg)

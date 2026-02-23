@@ -6,6 +6,8 @@
 
 ![Rat](./assets/rat.png)
 
+*Jeremy*
+
 ![pan1](./assets/panorama1.jpg)
 ![pan2](./assets/panorama2.jpg)
 ![pan3](./assets/panorama3.jpg)

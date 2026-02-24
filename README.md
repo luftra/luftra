@@ -20,11 +20,11 @@
 *Panoramas...* :smile:
 
 
-awesome software & apps (privacy/FOSS focused):
+stuff i use (privacy/FOSS focused):
 
 extensions:
-- language tool
-  - https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji
+- lharper
+  - https://chromewebstore.google.com/detail/private-grammar-checker-h/lodbfhdipoipcjmlebjbgmmgekckhpfb
 - english-to-english definitions - merriam-webster dictionary
   - https://chromewebstore.google.com/detail/english-to-english-defini/gmhgdiamihghcepkeapfoeakphffcdkk
 - proton pass
@@ -38,35 +38,23 @@ extensions:
 - violentmonkey
   - https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
   - https://greasyfork.org/en/scripts/406540-undiscord
-- canvas blocker (gecko)
-  - https://addons.mozilla.org/firefox/addon/canvasblocker/
+
+OS: POP OS
   
 apps:
-- librewolf - gecko - microsoft store
-  - https://librewolf.net
-  - https://apps.microsoft.com/detail/9nvn9sz8kfd7
-- vivaldi - chromium - microsoft store
+- vivaldi - chromium browser
   - https://vivaldi.com
-  - https://apps.microsoft.com/detail/xp99gvqdx7jpr4
-- obs - video recorder - microsoft store
+- obs - video recorder
   - https://obsproject.com
-  - https://apps.microsoft.com/detail/xpffh613w8v6lv
-- vlc (*alt to media player) - microsoft store
+- vlc - media player
   - https://www.videolan.org/vlc/
-  - https://apps.microsoft.com/detail/xpdm1zw6815mqm
-- pdf24 creator - utility - microsoft store
-  - https://tools.pdf24.org/en/creator
-  - https://apps.microsoft.com/detail/xpfd51h3vqzfm0
-- libreoffice (*alt to office)
+- libreoffice - office eco
   - https://www.libreoffice.org
-- shotcut (*alt to clipchamp)
+- shotcut - media editor
   - https://www.shotcut.org
-- qalculate! (*alt to calculator)
+- qalculate! - calculator
   - https://qalculate.github.io
-- bleachbit - cleaner
-  - https://www.bleachbit.org
-- notepad++ (*alt to notepad)
-  - https://notepad-plus-plus.org
+- kate - notepad
 - anki - flashcards
   - https://apps.ankiweb.net
 - windscribe - vpn

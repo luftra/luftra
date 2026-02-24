@@ -7,7 +7,7 @@ List of my privacy-focused/FOSS software.
 | **OS** | **Pop!_OS** | Started with Linux Mint. However Pop!_OS supports NVIDIA drivers better.| [System76](https://pop.system76.com/) |
 | **Browser** | **Vivaldi** | Chromium-based browser that's also privacy friendly + customizable. Less compatibility issues compared to Gecko. Used to use Librewolf. | [Vivaldi](https://vivaldi.com) |
 | **Extensions** | **uBlock Origin** | 2nd choice would be AdGuard. | [uBO](https://ublockorigin.com/) |
-| | **Harper** | Used to use LanguageTool before they ended free tier. | [Harper](https://harper.js.org/) |
+| | **Harper** | Used to use LanguageTool before they ended free tier. | [Harper](https://writewithharper.com) |
 | | **Proton Pass** | Proton ecosystem. | [Proton](https://proton.me/pass) |
 | | **SponsorBlock** | QOL. | [SponsorBlock](https://sponsor.ajay.app/) |
 | | **Violentmonkey** | Userscript manager. I've used it for Undiscord. | [Violentmonkey](https://violentmonkey.github.io/) |

@@ -5,7 +5,7 @@ List of my privacy-focused/FOSS software.
 | Category | Tool | Description | Platform/Link |
 | :--- | :--- | :--- | :--- |
 | **OS** | **Pop!_OS** | Primary Linux Distribution | [System76](https://pop.system76.com/) |
-| **Browser** | 🌐 **Vivaldi** | Chromium-based with deep customization | [Vivaldi](https://vivaldi.com) |
+| **Browser** | **Vivaldi** | Chromium-based with deep customization | [Vivaldi](https://vivaldi.com) |
 | **Extensions** | **uBlock Origin** | Wide-spectrum content blocker | [uBO](https://ublockorigin.com/) |
 | | **Harper** | Private, open-source grammar checker | [Harper](https://harper.js.org/) |
 | | **Proton Pass** | Open-source password manager | [Proton](https://proton.me/pass) |
@@ -31,10 +31,10 @@ List of my privacy-focused/FOSS software.
 | **Creative** | **OBS Studio** | Screen recording & streaming | [OBS](https://obsproject.com) |
 | | **Shotcut** | Open-source video editor | [Shotcut](https://www.shotcut.org) |
 | | **VLC** | Universal media player | [VLC](https://www.videolan.org/vlc/) |
-| | 🌅 **Horizon** | Image hosting | [Horizon](https://horizon.pics/) |
-| **Utility** | 💬 **GoofCord** | Privacy-hardened Discord client | [GoofCord](https://github.com/Milkshiift/GoofCord) |
-| | 👾 **Steam** | Gaming platform | [Steam](https://store.steampowered.com) |
-| | 🛡️ **Malwarebytes** | Malware scanning & removal | [Malwarebytes](https://www.malwarebytes.com) |
-| | 🧪 **VirusTotal** | Online file & URL analyzer | [VirusTotal](https://www.virustotal.com) |
+| | **Horizon** | Image hosting | [Horizon](https://horizon.pics/) |
+| **Utility** | **GoofCord** | Privacy-hardened Discord client | [GoofCord](https://github.com/Milkshiift/GoofCord) |
+| | **Steam** | Gaming platform | [Steam](https://store.steampowered.com) |
+| | **Malwarebytes** | Malware scanning & removal | [Malwarebytes](https://www.malwarebytes.com) |
+| | **VirusTotal** | Online file & URL analyzer | [VirusTotal](https://www.virustotal.com) |
 
 ---

@@ -1,6 +1,6 @@
-# 🛠️ My Tech Stack & Tools
+# My Tech Stack
 
-A curated list of my privacy-focused, FOSS, and daily-driver software.
+List of my privacy-focused/FOSS software.
 
 | Category | Tool | Description | Platform/Link |
 | :--- | :--- | :--- | :--- |

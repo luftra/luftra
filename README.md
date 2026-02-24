@@ -18,7 +18,7 @@ List of my privacy-focused/FOSS software.
 | **Ecosystems** | **Proton** | Mail, Drive, Calendar, & Docs. | [Proton](https://proton.me) |
 | | **Disroot** | Nextcloud (backup). | [Disroot](https://disroot.org) |
 | | **SimpleLogin** | Email aliasing. Bought by Proton. | [SimpleLogin](https://simplelogin.io/) |
-| **Storage** | **FolderFort** | $40 on StackSocial. 1TB Lifetime cloud storage, sync in development. Hosted on BackBlaze.| [FolderFort](https://www.folderfort.com/) |
+| **Storage** | **FolderFort** | $40 on StackSocial. 1TB Lifetime cloud storage. Sync in beta. Hosted on BackBlaze.| [FolderFort](https://www.folderfort.com/) |
 | | **Ente** | Photos. | [Ente](https://ente.io) |
 | **Productivity** | **Kate** | Text editor. Used to use Notepad++ on Win11. Notepad++ was also compromised. | [Kate](https://kate-editor.org) |
 | | **Anki** | Flashcards. | [Anki](https://apps.ankiweb.net) |

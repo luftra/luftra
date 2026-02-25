@@ -23,7 +23,7 @@ List of my privacy-focused/FOSS software.
 | **Productivity** | **Kate** | Text editor. Used to use Notepad++ on Win11. Notepad++ was also compromised. | [Kate](https://kate-editor.org) |
 | | **Anki** | Flashcards. | [Anki](https://apps.ankiweb.net) |
 | | **LibreOffice** | Office suite. | [LibreOffice](https://www.libreoffice.org) |
-| | **Qalculate!** | Calculator. | [Qalculate!](https://qalculate.github.io) |
+| | **Qalculate!** | Calculator. GTK UI. | [Qalculate!](https://qalculate.github.io) |
 | | **TI Connect CE** | Texas Instruments connectivity. | [TI](https://education.ti.com) |
 | **Creative** | **OBS Studio** | Screen recording. | [OBS](https://obsproject.com) |
 | | **Shotcut** | Video editor. | [Shotcut](https://www.shotcut.org) |
@@ -32,6 +32,7 @@ List of my privacy-focused/FOSS software.
 | **Utility** | **Steam** | Gaming. | [Steam](https://store.steampowered.com) |
 | | **VirusTotal** | File analyzer. | [VirusTotal](https://www.virustotal.com) |
 | | **Auto-cpufreq** | Power optimizer. Still looking for alternative for Acer's NitroSense software. | [Auto-cpufreq](https://foolcontrol.org/?p=4603) |
+| | **Tweaks** | Extra customization for Cosmic desktop. | [Auto-cpufreq](https://foolcontrol.org/?p=4603) |
 
 
 ---

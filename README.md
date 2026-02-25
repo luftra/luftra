@@ -32,7 +32,7 @@ List of my privacy-focused/FOSS software.
 | **Utility** | **Steam** | Gaming. | [Steam](https://store.steampowered.com) |
 | | **VirusTotal** | File analyzer. | [VirusTotal](https://www.virustotal.com) |
 | | **Auto-cpufreq** | Power optimizer. Still looking for alternative for Acer's NitroSense software. | [Auto-cpufreq](https://foolcontrol.org/?p=4603) |
-| | **Tweaks** | Extra customization for Cosmic desktop. | [Auto-cpufreq](https://foolcontrol.org/?p=4603) |
+| | **Tweaks** | Extra customization for Cosmic desktop. | [Tweaks](https://tweaks.edfloreshz.dev/) |
 
 
 ---

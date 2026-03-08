@@ -4,14 +4,14 @@ List of my privacy-focused/FOSS software.
 
 | Category | Tool | Description | Platform/Link |
 | :--- | :--- | :--- | :--- |
-| **OS** | **Pop!_OS** | Started with Linux Mint. However Pop!_OS supports NVIDIA drivers better.| [System76](https://pop.system76.com/) |
+| **OS** | **Nobara** | Started with Linux Mint and then Pop!_OS. Pop!_OS has better suport for Nvidia drivers but its Cosmic desktop is buggier and less polished compared to Nobara.| [System76](https://pop.system76.com/) |
 | **Browser** | **Vivaldi** | Chromium-based browser that's also privacy friendly + customizable. Less compatibility issues compared to Gecko. Used to use Librewolf. | [Vivaldi](https://vivaldi.com) |
 | **Extensions** | **uBlock Origin** | 2nd choice would be AdGuard. | [uBO](https://ublockorigin.com/) |
 | | **Harper** | Used to use LanguageTool before they ended free tier. | [Harper](https://writewithharper.com) |
 | | **Proton Pass** | Proton ecosystem. | [Proton](https://proton.me/pass) |
 | | **SponsorBlock** | QOL. | [SponsorBlock](https://sponsor.ajay.app/) |
 | | **Violentmonkey** | Userscript manager. I've used it for Undiscord. | [Violentmonkey](https://violentmonkey.github.io/) |
-| | **Untrap** | QOL. | [Untrap](https://untrap.app/) |
+| | **Enhancer for Youtubep** | QOL. | [Enhancer for Youtube](https://www.mrfdev.com) |
 | | **English-to-English Definitions** | Generated a key from Merriam-Webster Dictionary API. | [Store](https://chromewebstore.google.com/detail/english-to-english-defini/gmhgdiamihghcepkeapfoeakphffcdkk) |
 | **Privacy/VPN** | **Windscribe** | Yearly Pro subscription $29/yr. Connected 24/7. | [Windscribe](https://windscribe.com) |
 | | **NextDNS** | DNS filtering + lots of privacy customization options. 2nd choice would be ControlD (Windscribe sister company). | [NextDNS](https://nextdns.io) |

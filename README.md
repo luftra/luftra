@@ -4,7 +4,7 @@ List of my privacy-focused/FOSS software.
 
 | Category | Tool | Description | Platform/Link |
 | :--- | :--- | :--- | :--- |
-| **OS** | **Nobara** | Started with Linux Mint and then Pop!_OS. Pop!_OS Cosmic desktop is buggier and less polished compared to Nobara IMO. Although both support Nvidia drivers Nobara has additional gaming features like Proton-GE.| [System76](https://pop.system76.com/) |
+| **OS** | **Nobara** | Started with Linux Mint and then Pop!_OS. Pop!_OS Cosmic desktop is buggier and less polished compared to Nobara IMO. Although both support Nvidia drivers Nobara has additional gaming features like Proton-GE.| [Nobara](https://nobaraproject.org/index.html#hero) |
 | **Browser** | **Vivaldi** | Chromium-based browser that's also privacy friendly + customizable. Less compatibility issues compared to Gecko. Used to use Librewolf. | [Vivaldi](https://vivaldi.com) |
 | **Extensions** | **uBlock Origin** | 2nd choice would be AdGuard. | [uBO](https://ublockorigin.com/) |
 | | **Harper** | Used to use LanguageTool before they ended free tier. | [Harper](https://writewithharper.com) |

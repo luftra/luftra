@@ -4,7 +4,7 @@ List of my privacy-focused/FOSS software.
 
 | Category | Tool | Description | Platform/Link |
 | :--- | :--- | :--- | :--- |
-| **OS** | **Nobara** | Started with Linux Mint and then Pop!_OS. Pop!_OS Cosmic desktop is buggier and less polished compared to Nobara IMO. Although both support Nvidia drivers Nobara has additional gaming features like Proton-GE.| [Nobara](https://nobaraproject.org/index.html#hero) |
+| **OS** | **Nobara (Official KDE)** | Started with Linux Mint and then Pop!_OS. Pop!_OS Cosmic desktop is buggier and less polished compared to Nobara IMO. Although both support Nvidia drivers Nobara has additional gaming features like Proton-GE.| [Nobara](https://nobaraproject.org/index.html#hero) |
 | **Browser** | **Vivaldi** | Chromium-based browser that's also privacy friendly + customizable. Less compatibility issues compared to Gecko. Used to use Librewolf. | [Vivaldi](https://vivaldi.com) |
 | **Extensions** | **uBlock Origin** | 2nd choice would be AdGuard. | [uBO](https://ublockorigin.com/) |
 | | **Harper** | Used to use LanguageTool before they ended free tier. | [Harper](https://writewithharper.com) |
@@ -20,7 +20,7 @@ List of my privacy-focused/FOSS software.
 | | **SimpleLogin** | Email aliasing. Acquired by Proton. | [SimpleLogin](https://simplelogin.io/) |
 | **Storage** | **FolderFort** | $40 on StackSocial. 1TB Lifetime cloud storage. Sync in beta. Hosted on BackBlaze.| [FolderFort](https://www.folderfort.com/) |
 | | **Ente** | Photos. | [Ente](https://ente.io) |
-| **Productivity** | **Kate** | Text editor. Used to use Notepad++ on Win11. Notepad++ was also compromised. | [Kate](https://kate-editor.org) |
+| **Productivity** | **Kate** | KDE Text editor. Used to use Notepad++ on Win11. Notepad++ was also compromised. | [Kate](https://kate-editor.org) |
 | | **Anki** | Flashcards. | [Anki](https://apps.ankiweb.net) |
 | | **LibreOffice** | Office suite. | [LibreOffice](https://www.libreoffice.org) |
 | | **Qalculate!** | Calculator. GTK UI. | [Qalculate!](https://qalculate.github.io) |

@@ -1,5 +1,10 @@
 # My Tech Stack
 
+Acer Nitro V 16S AI (ANV16S-41)
+  - AMD Ryzen 7 260 w/ Radeon 780M
+  - 32 GB DDR5 RAM
+  - NVIDIA GeForce RTX 5060
+
 List of my privacy-focused/FOSS software.
 
 | Category | Name | Description | Link |

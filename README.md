@@ -43,6 +43,6 @@ List of my privacy-focused/FOSS software.
 | **Utility** | **Steam** | Gaming. | [Steam](https://store.steampowered.com) |
 | | **VirusTotal** | File analyzer. | [VirusTotal](https://www.virustotal.com) |
 | | **Otto** | Orange accent KDE plasma global theme. Widgets: Binary clock, RAM, CPU | [Otto](https://store.kde.org/p/1360125) |
-![Computer info](computer.png)
+![Computer info](assets/computer.png)
 
 ---
